@@ -27,6 +27,8 @@
 
 <br />
 
+---
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -103,6 +105,10 @@ TSQL         1 repos        ██░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
+
+---
+
+### Connect With Me
 
 [<img align="left" alt="raymond-zhao" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="5709671078 | Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />][Weibo]
