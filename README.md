@@ -26,9 +26,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br />
-<br />
-
-### Connect With Me
 
 [<img align="left" alt="raymond-zhao" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="5709671078 | Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />][Weibo]
