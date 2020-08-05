@@ -32,33 +32,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-9.1%20million%20Lines%20of%20code-blue)
 
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   21.12% 
-🌆 Daytime    142 commits    █████████░░░░░░░░░░░░░░░░   36.13% 
-🌃 Evening    164 commits    ██████████░░░░░░░░░░░░░░░   41.73% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Shanghai
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
 **I mostly code in Java** 
 
 ```text
