@@ -5,7 +5,7 @@
 - 🥅 2020 计划: 秋招后为开源做出实质性贡献, 每天学算法.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-8.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-9.0%20million%20Lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
