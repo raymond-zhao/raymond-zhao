@@ -1,14 +1,14 @@
-### 终于等到你, 还好我没放弃. 许愿秋招顺利, Offer 多多!
-- 🔭 目前无业, 全职在校学习!
-- 🌱 正在学习自己了解到的一切知识, 希望成为一名架构师. 🤣
-- 👯 正在准备 21 届秋招, 希望能有个不错的结果.
-- 🥅 2020 计划: 秋招后为开源做出实质性贡献, 每天学算法.
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-8.9%20million%20Lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
+
+- 🔭 目前无业, 全职在校学习!
+- 🌱 正在学习自己了解到的一切知识, 希望成为一名架构师. 🤣
+- 👯 正在准备 21 届秋招, 希望能有个不错的结果.
+- 🥅 2020 计划: 秋招后为开源做出实质性贡献, 每天学算法.
+
 
 <img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raymond-zhao&show_icons=true&hide_border=true&count_private=true" />
 
