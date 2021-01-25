@@ -4,10 +4,10 @@
 
 <!--END_SECTION:waka-->
 
-- 🔭 目前无业, 全职在校学习!
+- 🔭 工程硕士在读!
 - 🌱 正在学习自己了解到的一切知识, 希望成为一名架构师. 🤣
-- 👯 21 届秋招已结束, 感谢字节、快手、百度、网易互娱、好未来以及其他众多公司的意向书/Offer。
-- 🥅 2020 计划: 秋招后为开源做出实质性贡献, 每天学算法.
+- 👯 21 届秋招已结束, 签约快手, 感谢字节、百度、好未来、网易及其他公司的 Offer。
+- 🥅 2021 计划: 顺利毕业, 在工作中成长.
 
 
 <img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raymond-zhao&show_icons=true&hide_border=true&count_private=true" />
