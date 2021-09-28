@@ -2,7 +2,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
