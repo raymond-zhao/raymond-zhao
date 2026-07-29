@@ -1,36 +1,32 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C261%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2057%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (46.97%)
+⏱ AI Coding Time: 10 hrs 17 mins (37.34%)
 
-✍️ 9,396 lines written by AI, 1,932 lines written by hand (82.94% AI-written)
+✍️ 3,335 lines written by AI, 2,173 lines written by hand (60.55% AI-written)
 
-🔤 51,916,522 Input Tokens, 474,685 Output Tokens
+🔤 27,746,477 Input Tokens, 290,416 Output Tokens
 
-💵 $234.90 Estimated AI Cost This Week
+💵 $135.19 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 111 AI Prompts
+🧠 12 AI Sessions, 104 AI Prompts
 
-Sonnet                   6,593 lines         █████████████████░░░░░░░░   67.50 % 
-Opus                     3,131 lines         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-K                        43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Opus                     1,913 lines         ██████████████░░░░░░░░░░░   55.79 % 
+Sonnet                   1,473 lines         ███████████░░░░░░░░░░░░░░   42.96 % 
+K                        43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.94% of written lines came from AI
-📚 Verbose Prompter — average 2,249 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 34.15% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.55% of written lines came from AI
+📚 Verbose Prompter — average 1,618 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 61.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 00:24:28 UTC
+ Last Updated on 29/07/2026 00:22:57 UTC
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
