@@ -1,16 +1,12 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C286%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2013%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (0.93%)
+⏱ AI Coding Time: 6 mins (1.29%)
 
-✍️ 132 lines written by AI, 3,545 lines written by hand (3.59% AI-written)
+✍️ 132 lines written by AI, 2,821 lines written by hand (4.47% AI-written)
 
 🔤 149,542 Input Tokens, 5,350 Output Tokens
 
@@ -21,14 +17,14 @@
 Opus                     132 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.59% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.47% of written lines came from AI
 📚 Verbose Prompter — average 3,856 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.57% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/08/2026 00:22:45 UTC
+ Last Updated on 07/08/2026 01:09:52 UTC
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
