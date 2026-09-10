@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C322%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C323%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2039%20mins-blue?style=flat)
 
@@ -8,27 +8,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (14.61%)
+⏱ AI Coding Time: 2 hrs 21 mins (8.46%)
 
-✍️ 303 lines written by AI, 3 lines written by hand (99.02% AI-written)
+✍️ 479 lines written by AI, 182 lines written by hand (72.47% AI-written)
 
-🔤 750,864 Input Tokens, 164,657 Output Tokens
+🔤 351,899 Input Tokens, 98,554 Output Tokens
 
-💵 $19.04 Estimated AI Cost This Week
+💵 $11.17 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-Opus                     303 lines           █████████████████████████   100.00 % 
+Opus                     479 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 3,353 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.81% of changed lines were hand-edited
+🤖 AI-Driven — 72.47% of written lines came from AI
+📚 Verbose Prompter — average 3,456 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 96.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 00:15:02 UTC
+ Last Updated on 10/09/2026 00:13:52 UTC
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
