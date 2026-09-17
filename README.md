@@ -1,34 +1,34 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C326%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C328%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (6.92%)
+⏱ AI Coding Time: 1 hr 50 mins (4.28%)
 
-✍️ 197 lines written by AI, 2,523 lines written by hand (7.24% AI-written)
+✍️ 21 lines written by AI, 2,342 lines written by hand (0.89% AI-written)
 
-🔤 1,116,852 Input Tokens, 170,435 Output Tokens
+🔤 895,873 Input Tokens, 116,997 Output Tokens
 
-💵 $21.31 Estimated AI Cost This Week
+💵 $15.96 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 5 AI Sessions, 18 AI Prompts
 
-Opus                     197 lines           █████████████████████████   100.00 % 
+Opus                     21 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.24% of written lines came from AI
-📄 Detailed Prompter — average 1,463 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.89% of written lines came from AI
+📄 Detailed Prompter — average 808 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 00:13:34 UTC
+ Last Updated on 17/09/2026 00:13:02 UTC
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
