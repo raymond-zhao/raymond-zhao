@@ -8,27 +8,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (42.2%)
+⏱ AI Coding Time: 3 hrs 37 mins (35.67%)
 
-✍️ 3,617 lines written by AI, 108 lines written by hand (97.1% AI-written)
+✍️ 3,769 lines written by AI, 710 lines written by hand (84.15% AI-written)
 
-🔤 1,596,238 Input Tokens, 182,101 Output Tokens
+🔤 2,410,086 Input Tokens, 225,405 Output Tokens
 
-💵 $19.66 Estimated AI Cost This Week
+💵 $25.65 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-Opus                     3,623 lines         █████████████████████████   100.00 % 
+Opus                     3,775 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.1% of written lines came from AI
-📚 Verbose Prompter — average 4,260 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.89% of changed lines were hand-edited
+🤖 AI-Driven — 84.15% of written lines came from AI
+📚 Verbose Prompter — average 4,511 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 41.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 00:17:36 UTC
+ Last Updated on 13/10/2026 00:16:27 UTC
 <!--END_SECTION:waka-->
 
 - 🔭  软件工程专业硕士，已于 2021 年 6 月毕业.
